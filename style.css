@@ -15,4 +15,41 @@
 }
 body{
     background-color: var(--Grayish-Blue);
+    font-family:var(--font);
+}
+.container{
+    padding:4rem 2.5rem;
+}
+.content{
+    padding:2rem 1rem;
+    background-color:var(--Light-Gray);
+    border-radius:5px 5px 0px 0px;
+}
+.content h3{
+    padding-bottom:1rem;
+    color:var(--Cyan);
+    font-size:1.5rem;
+    font-weight:600;
+}
+.sub-topic{
+    display:inline-block;
+    padding-bottom:1rem;
+    color:var(--Bright-Yellow);
+    font-size:1.2rem;
+    font-weight:400;
+}
+.content p{
+    line-height:25px;
+    font-size:15px;
+    color:darkgray;
+}
+
+
+.content-1{
+    padding:2rem 1rem;
+    background-color: var(--Cyan);
+
+}
+.content-1 h3{
+    color:#fff;
 }
