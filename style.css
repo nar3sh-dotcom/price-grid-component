@@ -57,9 +57,46 @@ body{
 }
 .content-1 p{
     color:lightgrey;
-    
+    padding-bottom:1rem;
 }
 .price{
     color:#fff;
     font-size:2rem;
+    padding-right:10px;
+    font-weight:700;
 }
+.content-1 h4{
+    padding-bottom:1.7rem;
+    color:#e2dcdc;
+    font-size:1.1rem;
+}
+.btn{
+    text-transform: capitalize;
+    color:#fff;
+    background-color: var(--Bright-Yellow);
+    padding:12px 0 0 0;
+    font-size:1.5rem;
+    border-radius:5px;
+}
+.content-1 a{
+    text-decoration:none;
+    text-align: center;  
+}
+
+.content-2{
+    padding:1.7rem 1rem;
+    background-color: rgb(94, 190, 190);
+    border-radius: 0 0 5px 5px;
+}
+.content-2 h3{
+    text-transform: capitalize;
+    color:#fff;
+    font-size:1.5rem;
+    padding-bottom:1.15rem;
+}
+.content-2 ul li{
+    list-style-type:none;
+    color:lightgray;
+    line-height:25px;
+}
+
