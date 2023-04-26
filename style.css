@@ -52,4 +52,14 @@ body{
 }
 .content-1 h3{
     color:#fff;
+    font-weight:600;
+    padding-bottom:1rem;
+}
+.content-1 p{
+    color:lightgrey;
+    
+}
+.price{
+    color:#fff;
+    font-size:2rem;
 }
