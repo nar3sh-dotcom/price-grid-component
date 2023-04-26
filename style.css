@@ -17,7 +17,7 @@ body{
     background-color: var(--Grayish-Blue);
     font-family:var(--font);
 }
-.container{
+.main{
     padding:4rem 2.5rem;
 }
 .content{
